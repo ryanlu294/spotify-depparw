@@ -1,7 +1,6 @@
 import SpotifyWebApi from "spotify-web-api-js";
 import GenerateList from "./GenerateList";
 import { useEffect, useState } from "react";
-import { redirect } from "react-router-dom";
 
 const spotifyApi = new SpotifyWebApi();
 
