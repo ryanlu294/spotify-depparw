@@ -2,7 +2,7 @@ import { Container } from "react-bootstrap";
 
 function Login() {
   let client_id = "8a1be14bdc0e4be49d9cccf33e8cedf3";
-  let redirect_uri = "https://spotify-depparw.vercel.app/";
+  let redirect_uri = "https://spotify-depparw.vercel.app";
   let scope = "user-top-read playlist-modify-public";
   let url = "https://accounts.spotify.com/authorize";
   url += "?response_type=token";
