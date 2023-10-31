@@ -6,7 +6,7 @@ Spotify Depparw allows a user to view their most played songs in three different
 
 https://spotify-depparw.vercel.app/
 
-Unfortunately, due to limitations with the Spotify API, the deployed site does not work without reaching out to me. There are provided steps below to host the app locally and to receive your own Spotify API permissions. 
+Unfortunately, due to limitations with the Spotify API, the deployed site does not work without reaching out to me. 
 
 Here are some screenshots of the working app.
 
